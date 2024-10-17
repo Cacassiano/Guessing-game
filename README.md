@@ -1,2 +1,2 @@
 # Guessing-game
-Just a guessing game
+Just run the file in a python interpreter 
